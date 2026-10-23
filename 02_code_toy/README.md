@@ -1,4 +1,4 @@
-# Projeto 1 — A História Maluca (Mad Lib)
+# Projeto 2 — A História Maluca (Mad Lib)
 
 <div align="center"><img src="https://i.imgur.com/QsU3CUo.png" title="source: imgur.com" width="50%"/></div>
 
