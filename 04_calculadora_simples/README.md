@@ -1,5 +1,7 @@
 # Projeto 4 — Calculadora Simples
 
+<div align="center"><img src="https://i.imgur.com/QsU3CUo.png" title="source: imgur.com" width="50%"/></div>
+
 > Receba dois números e uma operação, e mostre o resultado, como uma calculadora de bolso.
 
 | | |
